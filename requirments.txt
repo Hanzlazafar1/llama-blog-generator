@@ -1,0 +1,8 @@
+sentence-transformers
+uvicorn
+ctransformers
+ipykernel  # i can use jupyter from this 
+langchain
+python-box
+streamlit
+# we dont need any open api key because we use our model which is present in our local machine 
